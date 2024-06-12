@@ -1,2 +1,4 @@
-def print_hello():
-    print("짜잔")
+def print_hello(someone):
+    print(f"짜잔, {someone}")
+
+
