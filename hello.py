@@ -1,3 +1,2 @@
-def print_hello(someone):
-    print(f"nihao, {someone}")
-
+def print_hello():
+    print("짜잔")
