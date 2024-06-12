@@ -1,2 +1,5 @@
-def print_hello():
-    print("안녕")
+def print_hello(someone):
+    print(f"안녕, {someone}")
+    
+print("test")
+
